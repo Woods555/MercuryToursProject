@@ -1,4 +1,5 @@
-Hello, Just download it and execute with your favourite IDE its recommended use Intellij
+Hello, Just download it and execute with your favourite IDE, Intellij its recommended.
+
 MercuryTours Selenium Automation Project
 This is a basic automation project using Java, Selenium WebDriver, and Maven, which automates some features of the Mercury Tours demo site.
 
